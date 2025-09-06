@@ -17,9 +17,7 @@ Here, I’ll be building a collection of **small but complete projects** to stre
 
 ## Projects Included
 1. **Calculator** – simple CLI calculator for basic operations  
-2. **Unit Converter** – convert between units (e.g., Celsius ↔ Fahrenheit, meters ↔ kilometers)  
-3. **To-Do List** – add, remove, and view tasks in the console  
-4. **Number Guessing Game** – a simple interactive guessing game  
+2. **Guess A Number** - simple CLI game where you guess a number
 
 (More projects will be added regularly 🚀)
 

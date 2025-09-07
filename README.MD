@@ -18,6 +18,8 @@ Here, I’ll be building a collection of **small but complete projects** to stre
 ## Projects Included
 1. **Calculator** – simple CLI calculator for basic operations  
 2. **Guess A Number** - simple CLI game where you guess a number
+3. **To-Do List** - simple CLI to-do list complete with file saving
+4. **Unit Converter** - simple CLI unit converter
 
 (More projects will be added regularly 🚀)
 
